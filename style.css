@@ -61,7 +61,7 @@ button{
 }
 @media (min-width: 200px) and (max-width: 425px) { /* smartphones, Android phones, landscape iPhone */ 
     .container .joke-box{
-        height: 45vmax;
+        height: 42vmax;
         width: 90%;
     
     }
